@@ -34,5 +34,23 @@
       "status": "success",
       "url": "https://facebook.com/4599871973590368"
     }
+  },
+  {
+    "timestamp": "2026-10-10T18:43:17.979906+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_slot_jackpot_frenzy_octopus_green_heart_20261010_184314.mp4",
+    "mode": "slot_jackpot_frenzy",
+    "hero": "octopus",
+    "item": "green_heart",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1150421404291313",
+      "comment_id": "1150421404291313_1423485763298976",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1150421404291313"
+    }
   }
 ]

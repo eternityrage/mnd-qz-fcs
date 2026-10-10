@@ -16,5 +16,23 @@
       "status": "success",
       "url": "https://facebook.com/1837249027694023"
     }
+  },
+  {
+    "timestamp": "2026-10-10T10:42:20.639621+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_sniper_target_lock_bread_man_in_motorized_wheelchair_20261010_104216.mp4",
+    "mode": "sniper_target_lock",
+    "hero": "bread",
+    "item": "man_in_motorized_wheelchair",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83d\udc3e",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "4599871973590368",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/4599871973590368"
+    }
   }
 ]

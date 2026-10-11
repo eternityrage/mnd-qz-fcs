@@ -70,5 +70,23 @@
       "status": "success",
       "url": "https://facebook.com/1544309814113330"
     }
+  },
+  {
+    "timestamp": "2026-10-11T10:54:48.515498+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_crossfire_4way_desert_island_pineapple_20261011_105443.mp4",
+    "mode": "crossfire_4way",
+    "hero": "desert_island",
+    "item": "pineapple",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udc3e SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \ud83c\udfaf\n2. Post your proof screenshot below \ud83d\udc47\n3. Name the item in the comments! \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1120506473896271",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1120506473896271"
+    }
   }
 ]

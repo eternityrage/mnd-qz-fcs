@@ -88,5 +88,23 @@
       "status": "success",
       "url": "https://facebook.com/1120506473896271"
     }
+  },
+  {
+    "timestamp": "2026-10-11T19:01:13.027443+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_freefall_terminal_cat_with_wry_smile_person_bouncing_ball_20261011_190108.mp4",
+    "mode": "freefall_terminal",
+    "hero": "cat_with_wry_smile",
+    "item": "person_bouncing_ball",
+    "title": "MindQuiz Spotlight: Can You Catch The Odd One? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "3901146430051695",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/3901146430051695"
+    }
   }
 ]

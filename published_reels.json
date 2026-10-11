@@ -52,5 +52,23 @@
       "status": "success",
       "url": "https://facebook.com/1150421404291313"
     }
+  },
+  {
+    "timestamp": "2026-10-11T02:00:01.597991+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_whack_a_mole_pop_cookie_aerial_tramway_20261011_015958.mp4",
+    "mode": "whack_a_mole_pop",
+    "hero": "cookie",
+    "item": "aerial_tramway",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1544309814113330",
+      "comment_id": "1544309814113330_1890502888780140",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1544309814113330"
+    }
   }
 ]

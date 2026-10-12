@@ -106,5 +106,23 @@
       "status": "success",
       "url": "https://facebook.com/3901146430051695"
     }
+  },
+  {
+    "timestamp": "2026-10-12T02:30:29.542946+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_spring_elastic_snap_astronaut_battery_20261012_023026.mp4",
+    "mode": "spring_elastic_snap",
+    "hero": "astronaut",
+    "item": "battery",
+    "title": "Observation IQ Test: 99% Miss This Detail! \ud83d\udd0d",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1146269998357489",
+      "comment_id": "1146269998357489_1760816474969005",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1146269998357489"
+    }
   }
 ]

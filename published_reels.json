@@ -142,5 +142,23 @@
       "status": "success",
       "url": "https://facebook.com/922697360720623"
     }
+  },
+  {
+    "timestamp": "2026-10-12T22:12:23.093473+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_dual_zoom_inverse_person_biking_dove_20261012_221217.mp4",
+    "mode": "dual_zoom_inverse",
+    "hero": "person_biking",
+    "item": "dove",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1604054867796377",
+      "comment_id": "1604054867796377_1338917828168273",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1604054867796377"
+    }
   }
 ]

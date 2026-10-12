@@ -124,5 +124,23 @@
       "status": "success",
       "url": "https://facebook.com/1146269998357489"
     }
+  },
+  {
+    "timestamp": "2026-10-12T12:11:40.870962+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_diamond_grid_4_speaker_medium_volume_sparkler_20261012_121136.mp4",
+    "mode": "diamond_grid_4",
+    "hero": "speaker_medium_volume",
+    "item": "sparkler",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "922697360720623",
+      "comment_id": "922697360720623_1138829561807725",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/922697360720623"
+    }
   }
 ]

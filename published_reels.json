@@ -196,5 +196,23 @@
       "status": "success",
       "url": "https://facebook.com/982680244161704"
     }
+  },
+  {
+    "timestamp": "2026-10-13T20:17:57.190765+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_corner_squeeze_pink_heart_turtle_20261013_201752.mp4",
+    "mode": "corner_squeeze",
+    "hero": "pink_heart",
+    "item": "turtle",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1059718183736948",
+      "comment_id": "1059718183736948_1091247083508581",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1059718183736948"
+    }
   }
 ]

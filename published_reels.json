@@ -178,5 +178,23 @@
       "status": "success",
       "url": "https://facebook.com/1078147615026156"
     }
+  },
+  {
+    "timestamp": "2026-10-13T11:57:13.104574+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_electric_arc_jump_alien_man_in_tuxedo_20261013_115709.mp4",
+    "mode": "electric_arc_jump",
+    "hero": "alien",
+    "item": "man_in_tuxedo",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "982680244161704",
+      "comment_id": "982680244161704_1663398352041405",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/982680244161704"
+    }
   }
 ]

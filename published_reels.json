@@ -160,5 +160,23 @@
       "status": "success",
       "url": "https://facebook.com/1604054867796377"
     }
+  },
+  {
+    "timestamp": "2026-10-13T03:39:51.107643+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_roulette_wheel_spin_ship_man_mountain_biking_20261013_033945.mp4",
+    "mode": "roulette_wheel_spin",
+    "hero": "ship",
+    "item": "man_mountain_biking",
+    "title": "Speed Trivia Challenge: Pause On The Secret Symbol! \u26a1",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1078147615026156",
+      "comment_id": "1078147615026156_1851462996026054",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1078147615026156"
+    }
   }
 ]

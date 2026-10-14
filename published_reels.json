@@ -214,5 +214,23 @@
       "status": "success",
       "url": "https://facebook.com/1059718183736948"
     }
+  },
+  {
+    "timestamp": "2026-10-14T02:00:12.562251+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_magnetic_attraction_eagle_repeat_single_button_20261014_020008.mp4",
+    "mode": "magnetic_attraction",
+    "hero": "eagle",
+    "item": "repeat_single_button",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1652272739786507",
+      "comment_id": "1652272739786507_1624276819371455",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1652272739786507"
+    }
   }
 ]

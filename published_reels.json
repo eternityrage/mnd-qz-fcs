@@ -340,5 +340,23 @@
       "status": "success",
       "url": "https://facebook.com/1833678377755128"
     }
+  },
+  {
+    "timestamp": "2026-10-15T21:34:23.201128+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_teleport_snap_green_circle_alarm_clock_20261015_213419.mp4",
+    "mode": "teleport_snap",
+    "hero": "green_circle",
+    "item": "alarm_clock",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1499327028696855",
+      "comment_id": "1499327028696855_1099396119531193",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1499327028696855"
+    }
   }
 ]

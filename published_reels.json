@@ -304,5 +304,23 @@
       "status": "success",
       "url": "https://facebook.com/981044151003775"
     }
+  },
+  {
+    "timestamp": "2026-10-15T14:14:52.515476+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_matrix_2x2_heart_hands_magic_wand_20261015_141447.mp4",
+    "mode": "matrix_2x2",
+    "hero": "heart_hands",
+    "item": "magic_wand",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1730642574688123",
+      "comment_id": "1730642574688123_1258325783135091",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1730642574688123"
+    }
   }
 ]

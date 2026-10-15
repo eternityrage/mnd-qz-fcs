@@ -322,5 +322,23 @@
       "status": "success",
       "url": "https://facebook.com/1730642574688123"
     }
+  },
+  {
+    "timestamp": "2026-10-15T18:24:23.037944+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_pyramid_wave_fuel_pump_tumbler_glass_20261015_182418.mp4",
+    "mode": "pyramid_wave",
+    "hero": "fuel_pump",
+    "item": "tumbler_glass",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1833678377755128",
+      "comment_id": "1833678377755128_28795631953404145",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1833678377755128"
+    }
   }
 ]

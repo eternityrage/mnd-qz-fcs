@@ -268,5 +268,23 @@
       "status": "success",
       "url": "https://facebook.com/1486098753568483"
     }
+  },
+  {
+    "timestamp": "2026-10-15T01:35:04.945598+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_matrix_3x3_slots_telephone_receiver_chipmunk_20261015_013500.mp4",
+    "mode": "matrix_3x3_slots",
+    "hero": "telephone_receiver",
+    "item": "chipmunk",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "4619046164996990",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/4619046164996990"
+    }
   }
 ]

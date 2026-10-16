@@ -358,5 +358,23 @@
       "status": "success",
       "url": "https://facebook.com/1499327028696855"
     }
+  },
+  {
+    "timestamp": "2026-10-16T01:30:45.650163+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_crossfire_6way_hexagon_person_with_crown_woman_getting_haircut_20261016_013039.mp4",
+    "mode": "crossfire_6way_hexagon",
+    "hero": "person_with_crown",
+    "item": "woman_getting_haircut",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1641952890801619",
+      "comment_id": "1641952890801619_1401551498728281",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1641952890801619"
+    }
   }
 ]

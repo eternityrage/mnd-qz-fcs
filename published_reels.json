@@ -376,5 +376,23 @@
       "status": "success",
       "url": "https://facebook.com/1641952890801619"
     }
+  },
+  {
+    "timestamp": "2026-10-16T09:07:00.691351+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_subway_surfer_lanes_health_worker_blue_circle_20261016_090658.mp4",
+    "mode": "subway_surfer_lanes",
+    "hero": "health_worker",
+    "item": "blue_circle",
+    "title": "Speed Trivia Challenge: Pause On The Secret Symbol! \u26a1",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1129086750069520",
+      "comment_id": "1129086750069520_1027918090321803",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1129086750069520"
+    }
   }
 ]

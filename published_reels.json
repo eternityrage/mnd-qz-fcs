@@ -412,5 +412,23 @@
       "status": "success",
       "url": "https://facebook.com/957079516996292"
     }
+  },
+  {
+    "timestamp": "2026-10-16T18:11:22.619878+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_anti_gravity_launch_volcano_boar_20261016_181117.mp4",
+    "mode": "anti_gravity_launch",
+    "hero": "volcano",
+    "item": "boar",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1641607670694258",
+      "comment_id": "1641607670694258_1424463309156492",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1641607670694258"
+    }
   }
 ]

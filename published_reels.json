@@ -394,5 +394,23 @@
       "status": "success",
       "url": "https://facebook.com/1129086750069520"
     }
+  },
+  {
+    "timestamp": "2026-10-16T14:03:28.310238+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_conveyor_belt_rush_black_heart_american_football_20261016_140325.mp4",
+    "mode": "conveyor_belt_rush",
+    "hero": "black_heart",
+    "item": "american_football",
+    "title": "Speed Trivia Challenge: Pause On The Secret Symbol! \u26a1",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "957079516996292",
+      "comment_id": "957079516996292_4061685970628660",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/957079516996292"
+    }
   }
 ]

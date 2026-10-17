@@ -502,5 +502,23 @@
       "status": "success",
       "url": "https://facebook.com/2072924643334285"
     }
+  },
+  {
+    "timestamp": "2026-10-17T17:19:47.747322+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_staircase_steps_memo_star_struck_20261017_171943.mp4",
+    "mode": "staircase_steps",
+    "hero": "memo",
+    "item": "star_struck",
+    "title": "Speed Trivia Challenge: Pause On The Secret Symbol! \u26a1",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1549234133901753",
+      "comment_id": "1549234133901753_947234574736891",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1549234133901753"
+    }
   }
 ]

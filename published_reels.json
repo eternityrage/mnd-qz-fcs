@@ -466,5 +466,23 @@
       "status": "success",
       "url": "https://facebook.com/1468999781963027"
     }
+  },
+  {
+    "timestamp": "2026-10-17T08:39:50.598664+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_plinko_bounce_airplane_arrival_keycap_asterisk_20261017_083947.mp4",
+    "mode": "plinko_bounce",
+    "hero": "airplane_arrival",
+    "item": "keycap_asterisk",
+    "title": "Speed Trivia Challenge: Pause On The Secret Symbol! \u26a1",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1632581108664848",
+      "comment_id": "1632581108664848_1492436329374888",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1632581108664848"
+    }
   }
 ]

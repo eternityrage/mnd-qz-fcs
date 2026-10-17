@@ -520,5 +520,23 @@
       "status": "success",
       "url": "https://facebook.com/1549234133901753"
     }
+  },
+  {
+    "timestamp": "2026-10-17T20:45:03.853988+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_whack_a_mole_pop_yo_yo_green_salad_20261017_204459.mp4",
+    "mode": "whack_a_mole_pop",
+    "hero": "yo_yo",
+    "item": "green_salad",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1115443094215595",
+      "comment_id": "1115443094215595_2040267583476231",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1115443094215595"
+    }
   }
 ]

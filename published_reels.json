@@ -592,5 +592,23 @@
       "status": "success",
       "url": "https://facebook.com/1603919128416026"
     }
+  },
+  {
+    "timestamp": "2026-10-18T17:26:41.862932+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_spring_elastic_snap_repeat_button_briefcase_20261018_172637.mp4",
+    "mode": "spring_elastic_snap",
+    "hero": "repeat_button",
+    "item": "briefcase",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1423397615904409",
+      "comment_id": "1423397615904409_1414457510304678",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1423397615904409"
+    }
   }
 ]

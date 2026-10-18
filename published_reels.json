@@ -574,5 +574,23 @@
       "status": "success",
       "url": "https://facebook.com/1159867626700586"
     }
+  },
+  {
+    "timestamp": "2026-10-18T13:23:14.629628+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_sniper_target_lock_wrapped_gift_coral_20261018_132311.mp4",
+    "mode": "sniper_target_lock",
+    "hero": "wrapped_gift",
+    "item": "coral",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1603919128416026",
+      "comment_id": "1603919128416026_1085826317610477",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1603919128416026"
+    }
   }
 ]

@@ -538,5 +538,23 @@
       "status": "success",
       "url": "https://facebook.com/1115443094215595"
     }
+  },
+  {
+    "timestamp": "2026-10-18T01:12:53.342832+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_crossfire_4way_up_arrow_horizontal_traffic_light_20261018_011249.mp4",
+    "mode": "crossfire_4way",
+    "hero": "up_arrow",
+    "item": "horizontal_traffic_light",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "2631912517232364",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2631912517232364"
+    }
   }
 ]

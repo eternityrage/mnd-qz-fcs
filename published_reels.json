@@ -664,5 +664,23 @@
       "status": "success",
       "url": "https://facebook.com/1584613359545145"
     }
+  },
+  {
+    "timestamp": "2026-10-19T20:01:13.729979+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_roulette_wheel_spin_nut_and_bolt_film_frames_20261019_200108.mp4",
+    "mode": "roulette_wheel_spin",
+    "hero": "nut_and_bolt",
+    "item": "film_frames",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "3335398106654974",
+      "comment_id": "3335398106654974_2990328411347718",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/3335398106654974"
+    }
   }
 ]

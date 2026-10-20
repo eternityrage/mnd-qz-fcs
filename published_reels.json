@@ -700,5 +700,23 @@
       "status": "success",
       "url": "https://facebook.com/4874735372749220"
     }
+  },
+  {
+    "timestamp": "2026-10-20T09:31:09.785276+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_magnetic_attraction_kimono_running_shirt_20261020_093106.mp4",
+    "mode": "magnetic_attraction",
+    "hero": "kimono",
+    "item": "running_shirt",
+    "title": "Speed Trivia Challenge: Pause On The Secret Symbol! \u26a1",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1168288456152770",
+      "comment_id": "1168288456152770_1590720756185807",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1168288456152770"
+    }
   }
 ]

@@ -718,5 +718,23 @@
       "status": "success",
       "url": "https://facebook.com/1168288456152770"
     }
+  },
+  {
+    "timestamp": "2026-10-20T18:32:56.487095+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_swing_back_diagonal_waffle_bowling_20261020_183251.mp4",
+    "mode": "swing_back_diagonal",
+    "hero": "waffle",
+    "item": "bowling",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1656292529496453",
+      "comment_id": "1656292529496453_1635912464653821",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1656292529496453"
+    }
   }
 ]

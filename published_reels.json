@@ -682,5 +682,23 @@
       "status": "success",
       "url": "https://facebook.com/3335398106654974"
     }
+  },
+  {
+    "timestamp": "2026-10-20T01:55:34.104569+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_corner_squeeze_clinking_glasses_man_white_hair_20261020_015530.mp4",
+    "mode": "corner_squeeze",
+    "hero": "clinking_glasses",
+    "item": "man_white_hair",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "4874735372749220",
+      "comment_id": "4874735372749220_1048663081512731",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/4874735372749220"
+    }
   }
 ]

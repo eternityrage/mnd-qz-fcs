@@ -736,5 +736,23 @@
       "status": "success",
       "url": "https://facebook.com/1656292529496453"
     }
+  },
+  {
+    "timestamp": "2026-10-21T01:42:58.779180+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_matrix_3x3_slots_military_medal_red_triangle_20261021_014254.mp4",
+    "mode": "matrix_3x3_slots",
+    "hero": "military_medal",
+    "item": "red_triangle",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1526034303072427",
+      "comment_id": "1526034303072427_1098700746217862",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1526034303072427"
+    }
   }
 ]

@@ -772,5 +772,23 @@
       "status": "success",
       "url": "https://facebook.com/2254885435079107"
     }
+  },
+  {
+    "timestamp": "2026-10-21T13:38:54.643844+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_shockwave_pulse_shortcake_person_merpeople_20261021_133849.mp4",
+    "mode": "shockwave_pulse",
+    "hero": "shortcake",
+    "item": "person_merpeople",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1122344977436381",
+      "comment_id": "1122344977436381_1054021307664757",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1122344977436381"
+    }
   }
 ]

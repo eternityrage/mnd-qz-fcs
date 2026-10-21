@@ -790,5 +790,23 @@
       "status": "success",
       "url": "https://facebook.com/1122344977436381"
     }
+  },
+  {
+    "timestamp": "2026-10-21T20:25:00.816112+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_matrix_2x2_clinking_beer_mugs_bowl_with_spoon_20261021_202458.mp4",
+    "mode": "matrix_2x2",
+    "hero": "clinking_beer_mugs",
+    "item": "bowl_with_spoon",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1542334457656722",
+      "comment_id": "1542334457656722_39384642697846632",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1542334457656722"
+    }
   }
 ]

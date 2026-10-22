@@ -826,5 +826,23 @@
       "status": "success",
       "url": "https://facebook.com/27708435428832117"
     }
+  },
+  {
+    "timestamp": "2026-10-22T05:52:06.846874+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_crossfire_6way_hexagon_police_car_light_face_with_diagonal_mouth_20261022_055201.mp4",
+    "mode": "crossfire_6way_hexagon",
+    "hero": "police_car_light",
+    "item": "face_with_diagonal_mouth",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1761299034985064",
+      "comment_id": "1761299034985064_4076418195824202",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1761299034985064"
+    }
   }
 ]

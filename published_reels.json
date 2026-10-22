@@ -808,5 +808,23 @@
       "status": "success",
       "url": "https://facebook.com/1542334457656722"
     }
+  },
+  {
+    "timestamp": "2026-10-22T00:19:25.293147+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_swing_vertical_handbag_man_factory_worker_20261022_001920.mp4",
+    "mode": "swing_vertical",
+    "hero": "handbag",
+    "item": "man_factory_worker",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "27708435428832117",
+      "comment_id": "27708435428832117_1128543253001222",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/27708435428832117"
+    }
   }
 ]

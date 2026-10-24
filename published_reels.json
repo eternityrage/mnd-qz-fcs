@@ -862,5 +862,23 @@
       "status": "success",
       "url": "https://facebook.com/28749980921322903"
     }
+  },
+  {
+    "timestamp": "2026-10-24T21:25:03.954560+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_stopwatch_countdown_video_game_tram_20261024_212500.mp4",
+    "mode": "stopwatch_countdown",
+    "hero": "video_game",
+    "item": "tram",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "2048659499123887",
+      "comment_id": "2048659499123887_1676799917407937",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2048659499123887"
+    }
   }
 ]

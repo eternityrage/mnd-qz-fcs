@@ -940,5 +940,25 @@
       "status": "success",
       "url": "https://facebook.com/1800508734521554"
     }
+  },
+  {
+    "timestamp": "2026-10-25T18:33:24.247971+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_pyramid_wave_woman_singer_pickup_truck_20261025_183321.mp4",
+    "family_id": 6,
+    "family_name": "Geometric Triangle Bouncers",
+    "mode": "pyramid_wave",
+    "hero": "woman_singer",
+    "item": "pickup_truck",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "2280456512687635",
+      "comment_id": "2280456512687635_978958808006428",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2280456512687635"
+    }
   }
 ]

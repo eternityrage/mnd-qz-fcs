@@ -900,5 +900,25 @@
       "status": "success",
       "url": "https://facebook.com/2625031547916727"
     }
+  },
+  {
+    "timestamp": "2026-10-25T10:31:53.316143+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_bouncing_floor_drop_woman_playing_handball_ice_20261025_103148.mp4",
+    "family_id": 14,
+    "family_name": "Kinetic Floor Rebounders",
+    "mode": "bouncing_floor_drop",
+    "hero": "woman_playing_handball",
+    "item": "ice",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "973081799211158",
+      "comment_id": "973081799211158_860941413749397",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/973081799211158"
+    }
   }
 ]

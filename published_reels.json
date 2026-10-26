@@ -1040,5 +1040,25 @@
       "status": "success",
       "url": "https://facebook.com/1666781148456507"
     }
+  },
+  {
+    "timestamp": "2026-10-26T20:45:19.655338+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_staircase_steps_man_in_motorized_wheelchair_facing_right_level_slider_20261026_204514.mp4",
+    "family_id": 28,
+    "family_name": "Atomic Electron Shells",
+    "mode": "staircase_steps",
+    "hero": "man_in_motorized_wheelchair_facing_right",
+    "item": "level_slider",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1481832573876378",
+      "comment_id": "1481832573876378_1061884470144460",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1481832573876378"
+    }
   }
 ]

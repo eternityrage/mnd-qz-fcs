@@ -1020,5 +1020,25 @@
       "status": "success",
       "url": "https://facebook.com/4062154317427461"
     }
+  },
+  {
+    "timestamp": "2026-10-26T17:02:32.056524+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_whack_a_mole_pop_woman_police_officer_brown_circle_20261026_170227.mp4",
+    "family_id": 26,
+    "family_name": "Cyclonic Tornadoes",
+    "mode": "whack_a_mole_pop",
+    "hero": "woman_police_officer",
+    "item": "brown_circle",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1666781148456507",
+      "comment_id": "1666781148456507_970082612822151",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1666781148456507"
+    }
   }
 ]

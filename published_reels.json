@@ -1000,5 +1000,25 @@
       "status": "success",
       "url": "https://facebook.com/2368808940535677"
     }
+  },
+  {
+    "timestamp": "2026-10-26T12:15:49.836442+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_subway_surfer_lanes_peanuts_flying_saucer_20261026_121544.mp4",
+    "family_id": 49,
+    "family_name": "Subway Surfer Dash Tracks",
+    "mode": "subway_surfer_lanes",
+    "hero": "peanuts",
+    "item": "flying_saucer",
+    "title": "Speed Trivia Challenge: Pause On The Secret Symbol! \u26a1",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "4062154317427461",
+      "comment_id": "4062154317427461_1160354803086120",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/4062154317427461"
+    }
   }
 ]

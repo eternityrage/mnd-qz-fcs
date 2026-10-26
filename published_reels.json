@@ -980,5 +980,25 @@
       "status": "success",
       "url": "https://facebook.com/28932638046398830"
     }
+  },
+  {
+    "timestamp": "2026-10-26T05:28:04.330829+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_plinko_bounce_bicycle_man_health_worker_20261026_052800.mp4",
+    "family_id": 17,
+    "family_name": "Plinko Pegboard Drops",
+    "mode": "plinko_bounce",
+    "hero": "bicycle",
+    "item": "man_health_worker",
+    "title": "Speed Trivia Challenge: Pause On The Secret Symbol! \u26a1",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "2368808940535677",
+      "comment_id": "2368808940535677_1833926484465446",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2368808940535677"
+    }
   }
 ]

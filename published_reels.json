@@ -1140,5 +1140,25 @@
       "status": "success",
       "url": "https://facebook.com/4520446538195177"
     }
+  },
+  {
+    "timestamp": "2026-10-27T20:21:13.261713+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_falling_gravity_snowman_bookmark_tabs_20261027_202108.mp4",
+    "family_id": 12,
+    "family_name": "Terminal Gravity Freefalls",
+    "mode": "falling_gravity",
+    "hero": "snowman",
+    "item": "bookmark_tabs",
+    "title": "Observation IQ Test: 99% Miss This Detail! \ud83d\udd0d",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1078924931842480",
+      "comment_id": "1078924931842480_2508483309621483",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1078924931842480"
+    }
   }
 ]

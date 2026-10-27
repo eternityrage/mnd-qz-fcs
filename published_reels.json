@@ -1080,5 +1080,25 @@
       "status": "success",
       "url": "https://facebook.com/2310698956164478"
     }
+  },
+  {
+    "timestamp": "2026-10-27T05:43:20.867663+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_orbit_carousel_scarf_japanese_discount_button_20261027_054317.mp4",
+    "family_id": 20,
+    "family_name": "Planetary Orbit Carousels",
+    "mode": "orbit_carousel",
+    "hero": "scarf",
+    "item": "japanese_discount_button",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "2012667506786605",
+      "comment_id": "2012667506786605_998996519915177",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2012667506786605"
+    }
   }
 ]

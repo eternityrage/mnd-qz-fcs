@@ -1180,5 +1180,25 @@
       "status": "success",
       "url": "https://facebook.com/1870775897245577"
     }
+  },
+  {
+    "timestamp": "2026-10-28T06:22:39.961669+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_crossfire_4way_nest_with_eggs_pizza_20261028_062234.mp4",
+    "family_id": 30,
+    "family_name": "Cardinal 4-Way Crossfires",
+    "mode": "crossfire_4way",
+    "hero": "nest_with_eggs",
+    "item": "pizza",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1475146521128005",
+      "comment_id": "1475146521128005_1662097698920285",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1475146521128005"
+    }
   }
 ]

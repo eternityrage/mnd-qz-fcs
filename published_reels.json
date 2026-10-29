@@ -1260,5 +1260,25 @@
       "status": "success",
       "url": "https://facebook.com/1752714779359064"
     }
+  },
+  {
+    "timestamp": "2026-10-29T00:26:57.355566+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_orbit_elliptical_fax_machine_curling_stone_20261029_002651.mp4",
+    "family_id": 20,
+    "family_name": "Planetary Orbit Carousels",
+    "mode": "orbit_elliptical",
+    "hero": "fax_machine",
+    "item": "curling_stone",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "970745912287138",
+      "comment_id": "970745912287138_1862533114927404",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/970745912287138"
+    }
   }
 ]

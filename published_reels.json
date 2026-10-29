@@ -1340,5 +1340,25 @@
       "status": "success",
       "url": "https://facebook.com/2079115126142335"
     }
+  },
+  {
+    "timestamp": "2026-10-29T20:35:27.997518+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_crossfire_6way_hexagon_man_farmer_oil_drum_20261029_203521.mp4",
+    "family_id": 32,
+    "family_name": "Hexagonal 6-Way Crossfires",
+    "mode": "crossfire_6way_hexagon",
+    "hero": "man_farmer",
+    "item": "oil_drum",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "29406281885623450",
+      "comment_id": "29406281885623450_3717041248471272",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/29406281885623450"
+    }
   }
 ]

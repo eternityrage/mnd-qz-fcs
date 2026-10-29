@@ -1300,5 +1300,25 @@
       "status": "success",
       "url": "https://facebook.com/998986659156007"
     }
+  },
+  {
+    "timestamp": "2026-10-29T12:06:31.544338+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_wobble_jelly_penguin_bridge_at_night_20261029_120627.mp4",
+    "family_id": 8,
+    "family_name": "Double Pendulum Chaos",
+    "mode": "wobble_jelly",
+    "hero": "penguin",
+    "item": "bridge_at_night",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1375831217738928",
+      "comment_id": "1375831217738928_1116486170739469",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1375831217738928"
+    }
   }
 ]

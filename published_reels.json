@@ -1440,5 +1440,25 @@
       "status": "success",
       "url": "https://facebook.com/1382242577052751"
     }
+  },
+  {
+    "timestamp": "2026-10-30T20:07:51.599038+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_corner_squeeze_nerd_face_blackbird_20261030_200748.mp4",
+    "family_id": 35,
+    "family_name": "Mechanical Box Vises",
+    "mode": "corner_squeeze",
+    "hero": "nerd_face",
+    "item": "blackbird",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1652882083028004",
+      "comment_id": "1652882083028004_1928715651441225",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1652882083028004"
+    }
   }
 ]

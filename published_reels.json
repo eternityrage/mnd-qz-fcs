@@ -1380,5 +1380,25 @@
       "status": "success",
       "url": "https://facebook.com/1072016089226289"
     }
+  },
+  {
+    "timestamp": "2026-10-30T06:32:46.888538+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_matrix_2x2_sari_woman_vampire_20261030_063243.mp4",
+    "family_id": 44,
+    "family_name": "Orthogonal 2x2 Matrices",
+    "mode": "matrix_2x2",
+    "hero": "sari",
+    "item": "woman_vampire",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "4768095640143295",
+      "comment_id": "4768095640143295_1155608950662558",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/4768095640143295"
+    }
   }
 ]

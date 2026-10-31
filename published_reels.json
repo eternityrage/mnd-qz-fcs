@@ -1480,5 +1480,25 @@
       "status": "success",
       "url": "https://facebook.com/1823835395708270"
     }
+  },
+  {
+    "timestamp": "2026-10-31T06:22:52.120898+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_roulette_wheel_spin_game_die_running_shoe_20261031_062246.mp4",
+    "family_id": 25,
+    "family_name": "Casino Roulette Wheels",
+    "mode": "roulette_wheel_spin",
+    "hero": "game_die",
+    "item": "running_shoe",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1776035370367251",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1776035370367251"
+    }
   }
 ]

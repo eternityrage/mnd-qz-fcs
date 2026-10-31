@@ -1460,5 +1460,25 @@
       "status": "success",
       "url": "https://facebook.com/1652882083028004"
     }
+  },
+  {
+    "timestamp": "2026-10-31T00:06:56.200365+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_magnetic_attraction_globe_showing_americas_orange_square_20261031_000653.mp4",
+    "family_id": 18,
+    "family_name": "Magnetic Attraction Fields",
+    "mode": "magnetic_attraction",
+    "hero": "globe_showing_americas",
+    "item": "orange_square",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1823835395708270",
+      "comment_id": "1823835395708270_1134695785811495",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1823835395708270"
+    }
   }
 ]

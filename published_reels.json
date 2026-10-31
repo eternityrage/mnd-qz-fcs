@@ -1520,5 +1520,25 @@
       "status": "success",
       "url": "https://facebook.com/1752081535900219"
     }
+  },
+  {
+    "timestamp": "2026-10-31T15:54:06.430118+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_conveyor_gravity_drop_camera_with_flash_bison_20261031_155402.mp4",
+    "family_id": 17,
+    "family_name": "Plinko Pegboard Drops",
+    "mode": "conveyor_gravity_drop",
+    "hero": "camera_with_flash",
+    "item": "bison",
+    "title": "Observation IQ Test: 99% Miss This Detail! \ud83d\udd0d",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1770750190888175",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1770750190888175"
+    }
   }
 ]

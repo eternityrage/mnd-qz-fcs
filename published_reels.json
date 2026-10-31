@@ -1540,5 +1540,25 @@
       "status": "success",
       "url": "https://facebook.com/1770750190888175"
     }
+  },
+  {
+    "timestamp": "2026-10-31T19:33:12.053770+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_stopwatch_countdown_backhand_index_pointing_right_joystick_20261031_193307.mp4",
+    "family_id": 50,
+    "family_name": "Precision Chrono Metronomes",
+    "mode": "stopwatch_countdown",
+    "hero": "backhand_index_pointing_right",
+    "item": "joystick",
+    "title": "Observation IQ Test: 99% Miss This Detail! \ud83d\udd0d",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1122807763707420",
+      "comment_id": "1122807763707420_1759698008467148",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1122807763707420"
+    }
   }
 ]

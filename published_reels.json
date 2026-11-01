@@ -1660,5 +1660,25 @@
       "status": "success",
       "url": "https://facebook.com/3089144464810793"
     }
+  },
+  {
+    "timestamp": "2026-11-01T23:55:47.307349+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_staircase_steps_kissing_face_robot_20261101_235542.mp4",
+    "family_id": 28,
+    "family_name": "Atomic Electron Shells",
+    "mode": "staircase_steps",
+    "hero": "kissing_face",
+    "item": "robot",
+    "title": "Observation IQ Test: 99% Miss This Detail! \ud83d\udd0d",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "39370519689262073",
+      "comment_id": "39370519689262073_4497479143808352",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/39370519689262073"
+    }
   }
 ]

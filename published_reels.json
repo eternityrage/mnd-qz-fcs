@@ -1700,5 +1700,25 @@
       "status": "success",
       "url": "https://facebook.com/2250212289251008"
     }
+  },
+  {
+    "timestamp": "2026-11-02T14:29:50.603928+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_microscope_focus_trackball_man_kneeling_facing_right_20261102_142944.mp4",
+    "family_id": 42,
+    "family_name": "Optical Spectrum Prisms",
+    "mode": "microscope_focus",
+    "hero": "trackball",
+    "item": "man_kneeling_facing_right",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1759910198892024",
+      "comment_id": "1759910198892024_1168291669195390",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1759910198892024"
+    }
   }
 ]

@@ -1680,5 +1680,25 @@
       "status": "success",
       "url": "https://facebook.com/39370519689262073"
     }
+  },
+  {
+    "timestamp": "2026-11-02T06:55:25.956760+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_whack_a_mole_pop_open_mailbox_with_lowered_flag_giraffe_20261102_065521.mp4",
+    "family_id": 26,
+    "family_name": "Cyclonic Tornadoes",
+    "mode": "whack_a_mole_pop",
+    "hero": "open_mailbox_with_lowered_flag",
+    "item": "giraffe",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "2250212289251008",
+      "comment_id": "2250212289251008_1823358668862472",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2250212289251008"
+    }
   }
 ]

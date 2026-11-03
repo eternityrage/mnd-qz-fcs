@@ -1760,5 +1760,25 @@
       "status": "success",
       "url": "https://facebook.com/1685646833156883"
     }
+  },
+  {
+    "timestamp": "2026-11-03T02:40:09.251147+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_matrix_3x3_slots_man_curly_hair_cocktail_glass_20261103_024006.mp4",
+    "family_id": 45,
+    "family_name": "High-Density 3x3 Matrices",
+    "mode": "matrix_3x3_slots",
+    "hero": "man_curly_hair",
+    "item": "cocktail_glass",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "2574036996427623",
+      "comment_id": "2574036996427623_1124563297233743",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2574036996427623"
+    }
   }
 ]

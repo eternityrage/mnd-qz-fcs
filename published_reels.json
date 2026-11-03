@@ -1780,5 +1780,25 @@
       "status": "success",
       "url": "https://facebook.com/2574036996427623"
     }
+  },
+  {
+    "timestamp": "2026-11-03T07:18:52.965844+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_diamond_grid_4_person_mage_red_circle_20261103_071848.mp4",
+    "family_id": 44,
+    "family_name": "Orthogonal 2x2 Matrices",
+    "mode": "diamond_grid_4",
+    "hero": "person_mage",
+    "item": "red_circle",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1674728827384019",
+      "comment_id": "1674728827384019_1668425414911867",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1674728827384019"
+    }
   }
 ]

@@ -1920,5 +1920,25 @@
       "status": "success",
       "url": "https://facebook.com/29506811138937304"
     }
+  },
+  {
+    "timestamp": "2026-11-04T18:16:06.578825+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_teleport_snap_heavy_dollar_sign_woman_in_tuxedo_20261104_181603.mp4",
+    "family_id": 47,
+    "family_name": "Quantum Teleportation Snaps",
+    "mode": "teleport_snap",
+    "hero": "heavy_dollar_sign",
+    "item": "woman_in_tuxedo",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1662843765626370",
+      "comment_id": "1662843765626370_40027647240181921",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1662843765626370"
+    }
   }
 ]

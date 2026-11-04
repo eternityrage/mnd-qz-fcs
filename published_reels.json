@@ -1900,5 +1900,25 @@
       "status": "success",
       "url": "https://facebook.com/1913768086254774"
     }
+  },
+  {
+    "timestamp": "2026-11-04T13:38:32.676157+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_swing_diagonal_slash_martial_arts_uniform_poultry_leg_20261104_133828.mp4",
+    "family_id": 4,
+    "family_name": "Diagonal Slash Trajectories",
+    "mode": "swing_diagonal_slash",
+    "hero": "martial_arts_uniform",
+    "item": "poultry_leg",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "29506811138937304",
+      "comment_id": "29506811138937304_1159252573283404",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/29506811138937304"
+    }
   }
 ]

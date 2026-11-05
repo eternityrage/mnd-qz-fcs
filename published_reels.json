@@ -2040,5 +2040,25 @@
       "status": "success",
       "url": "https://facebook.com/29340819478887185"
     }
+  },
+  {
+    "timestamp": "2026-11-05T21:34:13.608982+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_crossfire_6way_hexagon_video_game_coin_20261105_213410.mp4",
+    "family_id": 32,
+    "family_name": "Hexagonal 6-Way Crossfires",
+    "mode": "crossfire_6way_hexagon",
+    "hero": "video_game",
+    "item": "coin",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "4644647419196152",
+      "comment_id": "4644647419196152_1112562821776758",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/4644647419196152"
+    }
   }
 ]

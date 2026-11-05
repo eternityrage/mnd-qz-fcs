@@ -1960,5 +1960,25 @@
       "status": "success",
       "url": "https://facebook.com/1937264184421762"
     }
+  },
+  {
+    "timestamp": "2026-11-05T01:05:41.064734+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_radar_sweep_360_butter_rightwards_pushing_hand_20261105_010537.mp4",
+    "family_id": 27,
+    "family_name": "Radar Beam Sweeps",
+    "mode": "radar_sweep_360",
+    "hero": "butter",
+    "item": "rightwards_pushing_hand",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "3376408842541693",
+      "comment_id": "3376408842541693_1161887679520936",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/3376408842541693"
+    }
   }
 ]

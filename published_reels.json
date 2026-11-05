@@ -1980,5 +1980,25 @@
       "status": "success",
       "url": "https://facebook.com/3376408842541693"
     }
+  },
+  {
+    "timestamp": "2026-11-05T07:27:57.881499+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_orbit_elliptical_shield_shark_20261105_072753.mp4",
+    "family_id": 20,
+    "family_name": "Planetary Orbit Carousels",
+    "mode": "orbit_elliptical",
+    "hero": "shield",
+    "item": "shark",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "2620705088431123",
+      "comment_id": "2620705088431123_1433505845031005",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2620705088431123"
+    }
   }
 ]

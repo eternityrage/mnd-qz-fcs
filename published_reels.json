@@ -2080,5 +2080,25 @@
       "status": "success",
       "url": "https://facebook.com/30100659842857549"
     }
+  },
+  {
+    "timestamp": "2026-11-06T07:27:18.443212+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_plinko_bounce_trolleybus_linked_paperclips_20261106_072715.mp4",
+    "family_id": 17,
+    "family_name": "Plinko Pegboard Drops",
+    "mode": "plinko_bounce",
+    "hero": "trolleybus",
+    "item": "linked_paperclips",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1134689382475209",
+      "comment_id": "1134689382475209_1150361104179659",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1134689382475209"
+    }
   }
 ]

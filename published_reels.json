@@ -2060,5 +2060,25 @@
       "status": "success",
       "url": "https://facebook.com/4644647419196152"
     }
+  },
+  {
+    "timestamp": "2026-11-06T01:08:57.551645+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_spring_elastic_snap_black_nib_jeans_20261106_010852.mp4",
+    "family_id": 7,
+    "family_name": "Elastic Springs & Snaps",
+    "mode": "spring_elastic_snap",
+    "hero": "black_nib",
+    "item": "jeans",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "30100659842857549",
+      "comment_id": "30100659842857549_1674382360726501",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/30100659842857549"
+    }
   }
 ]

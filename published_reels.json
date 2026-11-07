@@ -2260,5 +2260,25 @@
       "status": "success",
       "url": "https://facebook.com/1662925765436305"
     }
+  },
+  {
+    "timestamp": "2026-11-07T23:59:29.155948+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_sniper_target_lock_spade_suit_olive_20261107_235926.mp4",
+    "family_id": 34,
+    "family_name": "Precision Sniper Crosshairs",
+    "mode": "sniper_target_lock",
+    "hero": "spade_suit",
+    "item": "olive",
+    "title": "Speed Trivia Challenge: Pause On The Secret Symbol! \u26a1",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1860379551765212",
+      "comment_id": "1860379551765212_2374832809928595",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1860379551765212"
+    }
   }
 ]

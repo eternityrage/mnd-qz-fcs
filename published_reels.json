@@ -2280,5 +2280,25 @@
       "status": "success",
       "url": "https://facebook.com/1860379551765212"
     }
+  },
+  {
+    "timestamp": "2026-11-08T06:45:08.209748+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_avalanche_rush_airplane_departure_ice_hockey_20261108_064505.mp4",
+    "family_id": 15,
+    "family_name": "Parabolic Cannonballs",
+    "mode": "avalanche_rush",
+    "hero": "airplane_departure",
+    "item": "ice_hockey",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1802096511016962",
+      "comment_id": "1802096511016962_1661199352379565",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1802096511016962"
+    }
   }
 ]

@@ -2380,5 +2380,25 @@
       "status": "success",
       "url": "https://facebook.com/29226142566994754"
     }
+  },
+  {
+    "timestamp": "2026-11-09T07:16:48.372232+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_waterfall_cascade_bell_pepper_face_blowing_a_kiss_20261109_071643.mp4",
+    "family_id": 16,
+    "family_name": "Liquid Waterfall Cascades",
+    "mode": "waterfall_cascade",
+    "hero": "bell_pepper",
+    "item": "face_blowing_a_kiss",
+    "title": "Speed Trivia Challenge: Pause On The Secret Symbol! \u26a1",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1489506176402947",
+      "comment_id": "1489506176402947_2619053235258515",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1489506176402947"
+    }
   }
 ]

@@ -2440,5 +2440,25 @@
       "status": "success",
       "url": "https://facebook.com/1848874956466367"
     }
+  },
+  {
+    "timestamp": "2026-11-09T23:51:26.321451+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_crossfire_4way_white_flower_pen_20261109_235120.mp4",
+    "family_id": 30,
+    "family_name": "Cardinal 4-Way Crossfires",
+    "mode": "crossfire_4way",
+    "hero": "white_flower",
+    "item": "pen",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "28980183824968534",
+      "comment_id": "28980183824968534_4176159029351823",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/28980183824968534"
+    }
   }
 ]

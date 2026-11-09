@@ -2420,5 +2420,25 @@
       "status": "success",
       "url": "https://facebook.com/1171391779174759"
     }
+  },
+  {
+    "timestamp": "2026-11-09T21:08:51.244340+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_laser_crosshairs_tent_fax_machine_20261109_210846.mp4",
+    "family_id": 34,
+    "family_name": "Precision Sniper Crosshairs",
+    "mode": "laser_crosshairs",
+    "hero": "tent",
+    "item": "fax_machine",
+    "title": "Observation IQ Test: 99% Miss This Detail! \ud83d\udd0d",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1848874956466367",
+      "comment_id": "1848874956466367_1082357488185892",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1848874956466367"
+    }
   }
 ]

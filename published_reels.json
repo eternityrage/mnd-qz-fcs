@@ -2360,5 +2360,25 @@
       "status": "success",
       "url": "https://facebook.com/1119704620867753"
     }
+  },
+  {
+    "timestamp": "2026-11-09T00:04:58.744840+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_swing_opposing_ice_cream_flat_shoe_20261109_000454.mp4",
+    "family_id": 3,
+    "family_name": "Horizontal Slider Lanes",
+    "mode": "swing_opposing",
+    "hero": "ice_cream",
+    "item": "flat_shoe",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "29226142566994754",
+      "comment_id": "29226142566994754_4465512897032788",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/29226142566994754"
+    }
   }
 ]

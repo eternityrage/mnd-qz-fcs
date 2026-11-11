@@ -2640,5 +2640,25 @@
       "status": "success",
       "url": "https://facebook.com/1395627649044393"
     }
+  },
+  {
+    "timestamp": "2026-11-11T22:15:30.641588+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_zigzag_lightning_health_worker_crocodile_20261111_221527.mp4",
+    "family_id": 10,
+    "family_name": "Zigzag Lightning Bolts",
+    "mode": "zigzag_lightning",
+    "hero": "health_worker",
+    "item": "crocodile",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "993650996595825",
+      "comment_id": "993650996595825_2358524274966382",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/993650996595825"
+    }
   }
 ]

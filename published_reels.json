@@ -2560,5 +2560,25 @@
       "status": "success",
       "url": "https://facebook.com/2938307663234661"
     }
+  },
+  {
+    "timestamp": "2026-11-11T00:55:31.130146+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_radar_sweep_360_keyboard_o_button_blood_type_20261111_005526.mp4",
+    "family_id": 27,
+    "family_name": "Radar Beam Sweeps",
+    "mode": "radar_sweep_360",
+    "hero": "keyboard",
+    "item": "o_button_blood_type",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "2939010649831977",
+      "comment_id": "2939010649831977_1503603636158848",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2939010649831977"
+    }
   }
 ]

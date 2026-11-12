@@ -2700,5 +2700,25 @@
       "status": "success",
       "url": "https://facebook.com/1670235865115087"
     }
+  },
+  {
+    "timestamp": "2026-11-12T14:28:26.724171+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_plinko_bounce_police_car_light_crab_20261112_142823.mp4",
+    "family_id": 17,
+    "family_name": "Plinko Pegboard Drops",
+    "mode": "plinko_bounce",
+    "hero": "police_car_light",
+    "item": "crab",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "935935792784533",
+      "comment_id": "935935792784533_1357776939654710",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/935935792784533"
+    }
   }
 ]

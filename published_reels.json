@@ -2740,5 +2740,25 @@
       "status": "success",
       "url": "https://facebook.com/3281534128714772"
     }
+  },
+  {
+    "timestamp": "2026-11-12T21:55:25.954773+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_bouncing_floor_drop_joystick_person_playing_handball_20261112_215522.mp4",
+    "family_id": 14,
+    "family_name": "Kinetic Floor Rebounders",
+    "mode": "bouncing_floor_drop",
+    "hero": "joystick",
+    "item": "person_playing_handball",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "2620934688336608",
+      "comment_id": "2620934688336608_1173871061804202",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2620934688336608"
+    }
   }
 ]

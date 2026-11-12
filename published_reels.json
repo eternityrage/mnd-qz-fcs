@@ -2660,5 +2660,25 @@
       "status": "success",
       "url": "https://facebook.com/993650996595825"
     }
+  },
+  {
+    "timestamp": "2026-11-12T02:02:16.108722+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_spiral_galaxy_out_pineapple_lizard_20261112_020212.mp4",
+    "family_id": 22,
+    "family_name": "Logarithmic Spiral Galaxies",
+    "mode": "spiral_galaxy_out",
+    "hero": "pineapple",
+    "item": "lizard",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1681243066673883",
+      "comment_id": "1681243066673883_1832501854657285",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1681243066673883"
+    }
   }
 ]

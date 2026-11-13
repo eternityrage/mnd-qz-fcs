@@ -2800,5 +2800,25 @@
       "status": "success",
       "url": "https://facebook.com/1671330441292171"
     }
+  },
+  {
+    "timestamp": "2026-11-13T13:46:05.811705+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_sniper_target_lock_sparkles_bullet_train_20261113_134602.mp4",
+    "family_id": 34,
+    "family_name": "Precision Sniper Crosshairs",
+    "mode": "sniper_target_lock",
+    "hero": "sparkles",
+    "item": "bullet_train",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "4667773183546893",
+      "comment_id": "4667773183546893_1153092853859036",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/4667773183546893"
+    }
   }
 ]

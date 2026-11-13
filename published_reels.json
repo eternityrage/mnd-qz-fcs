@@ -2780,5 +2780,25 @@
       "status": "success",
       "url": "https://facebook.com/2243468602896225"
     }
+  },
+  {
+    "timestamp": "2026-11-13T07:25:04.664012+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_magnetic_attraction_chess_pawn_carp_streamer_20261113_072459.mp4",
+    "family_id": 18,
+    "family_name": "Magnetic Attraction Fields",
+    "mode": "magnetic_attraction",
+    "hero": "chess_pawn",
+    "item": "carp_streamer",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1671330441292171",
+      "comment_id": "1671330441292171_1173779665025592",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1671330441292171"
+    }
   }
 ]

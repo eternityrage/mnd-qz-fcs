@@ -2760,5 +2760,25 @@
       "status": "success",
       "url": "https://facebook.com/2620934688336608"
     }
+  },
+  {
+    "timestamp": "2026-11-13T01:29:32.217049+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_sine_wave_meander_elephant_mirror_ball_20261113_012927.mp4",
+    "family_id": 5,
+    "family_name": "Harmonic Sine Waves",
+    "mode": "sine_wave_meander",
+    "hero": "elephant",
+    "item": "mirror_ball",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "2243468602896225",
+      "comment_id": "2243468602896225_1799645927772861",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2243468602896225"
+    }
   }
 ]

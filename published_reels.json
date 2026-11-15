@@ -3040,5 +3040,25 @@
       "status": "success",
       "url": "https://facebook.com/1640071570998170"
     }
+  },
+  {
+    "timestamp": "2026-11-15T20:33:38.858432+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_matrix_3x3_slots_pizza_restroom_20261115_203335.mp4",
+    "family_id": 45,
+    "family_name": "High-Density 3x3 Matrices",
+    "mode": "matrix_3x3_slots",
+    "hero": "pizza",
+    "item": "restroom",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "3735596723263845",
+      "comment_id": "3735596723263845_1114882541164501",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/3735596723263845"
+    }
   }
 ]

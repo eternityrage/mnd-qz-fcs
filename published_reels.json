@@ -2960,5 +2960,25 @@
       "status": "success",
       "url": "https://facebook.com/4601968963354396"
     }
+  },
+  {
+    "timestamp": "2026-11-15T00:21:16.380975+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_swing_horizontal_winking_face_sports_medal_20261115_002111.mp4",
+    "family_id": 3,
+    "family_name": "Horizontal Slider Lanes",
+    "mode": "swing_horizontal",
+    "hero": "winking_face",
+    "item": "sports_medal",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1022337300932024",
+      "comment_id": "1022337300932024_1833541741168229",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1022337300932024"
+    }
   }
 ]

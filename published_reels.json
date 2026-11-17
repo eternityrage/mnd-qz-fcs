@@ -3160,5 +3160,25 @@
       "status": "success",
       "url": "https://facebook.com/1451475883076142"
     }
+  },
+  {
+    "timestamp": "2026-11-17T03:12:24.325324+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_crossfire_4way_candy_postal_horn_20261117_031220.mp4",
+    "family_id": 30,
+    "family_name": "Cardinal 4-Way Crossfires",
+    "mode": "crossfire_4way",
+    "hero": "candy",
+    "item": "postal_horn",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1814425196439125",
+      "comment_id": "1814425196439125_1452530499724266",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1814425196439125"
+    }
   }
 ]

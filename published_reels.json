@@ -3260,5 +3260,25 @@
       "status": "success",
       "url": "https://facebook.com/1153645083918865"
     }
+  },
+  {
+    "timestamp": "2026-11-18T02:37:35.501738+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_plinko_bounce_japanese_passing_grade_button_fog_20261118_023730.mp4",
+    "family_id": 17,
+    "family_name": "Plinko Pegboard Drops",
+    "mode": "plinko_bounce",
+    "hero": "japanese_passing_grade_button",
+    "item": "fog",
+    "title": "Speed Trivia Challenge: Pause On The Secret Symbol! \u26a1",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1473930601341837",
+      "comment_id": "1473930601341837_1010517721410774",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1473930601341837"
+    }
   }
 ]

@@ -3300,5 +3300,25 @@
       "status": "success",
       "url": "https://facebook.com/1166886129422633"
     }
+  },
+  {
+    "timestamp": "2026-11-18T14:56:59.086159+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_meteor_strike_exclamation_question_mark_phoenix_bird_20261118_145654.mp4",
+    "family_id": 19,
+    "family_name": "Deep Space Meteor Strikes",
+    "mode": "meteor_strike",
+    "hero": "exclamation_question_mark",
+    "item": "phoenix_bird",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1082026844873560",
+      "comment_id": "1082026844873560_1808490043748566",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1082026844873560"
+    }
   }
 ]

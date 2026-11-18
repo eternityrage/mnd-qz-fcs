@@ -3280,5 +3280,25 @@
       "status": "success",
       "url": "https://facebook.com/1473930601341837"
     }
+  },
+  {
+    "timestamp": "2026-11-18T07:59:36.485571+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_subway_surfer_lanes_necktie_input_latin_uppercase_20261118_075932.mp4",
+    "family_id": 49,
+    "family_name": "Subway Surfer Dash Tracks",
+    "mode": "subway_surfer_lanes",
+    "hero": "necktie",
+    "item": "input_latin_uppercase",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1166886129422633",
+      "comment_id": "1166886129422633_1128395853336957",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1166886129422633"
+    }
   }
 ]

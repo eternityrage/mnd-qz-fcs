@@ -3320,5 +3320,25 @@
       "status": "success",
       "url": "https://facebook.com/1082026844873560"
     }
+  },
+  {
+    "timestamp": "2026-11-18T19:10:26.354242+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_electric_arc_jump_ribbon_orange_book_20261118_191021.mp4",
+    "family_id": 10,
+    "family_name": "Zigzag Lightning Bolts",
+    "mode": "electric_arc_jump",
+    "hero": "ribbon",
+    "item": "orange_book",
+    "title": "Speed Trivia Challenge: Pause On The Secret Symbol! \u26a1",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1852673836072756",
+      "comment_id": "1852673836072756_1916531743026554",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1852673836072756"
+    }
   }
 ]

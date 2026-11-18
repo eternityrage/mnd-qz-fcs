@@ -3340,5 +3340,25 @@
       "status": "success",
       "url": "https://facebook.com/1852673836072756"
     }
+  },
+  {
+    "timestamp": "2026-11-18T22:42:26.702577+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_sniper_target_lock_carousel_horse_meat_on_bone_20261118_224221.mp4",
+    "family_id": 34,
+    "family_name": "Precision Sniper Crosshairs",
+    "mode": "sniper_target_lock",
+    "hero": "carousel_horse",
+    "item": "meat_on_bone",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "2335491043913645",
+      "comment_id": "2335491043913645_4396813337296682",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2335491043913645"
+    }
   }
 ]

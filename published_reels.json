@@ -3380,5 +3380,25 @@
       "status": "success",
       "url": "https://facebook.com/1700048338360395"
     }
+  },
+  {
+    "timestamp": "2026-11-19T08:00:35.996786+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_staircase_steps_alien_monster_ng_button_20261119_080031.mp4",
+    "family_id": 28,
+    "family_name": "Atomic Electron Shells",
+    "mode": "staircase_steps",
+    "hero": "alien_monster",
+    "item": "ng_button",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1116187297875394",
+      "comment_id": "1116187297875394_1616054419634154",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1116187297875394"
+    }
   }
 ]

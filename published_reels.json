@@ -3540,5 +3540,25 @@
       "status": "success",
       "url": "https://facebook.com/2244337376427094"
     }
+  },
+  {
+    "timestamp": "2026-11-20T22:21:42.285740+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_solar_eclipse_pool_8_ball_wireless_20261120_222139.mp4",
+    "family_id": 24,
+    "family_name": "Celestial Solar Eclipses",
+    "mode": "solar_eclipse",
+    "hero": "pool_8_ball",
+    "item": "wireless",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1842554873731789",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1842554873731789"
+    }
   }
 ]

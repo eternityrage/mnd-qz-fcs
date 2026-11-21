@@ -3620,5 +3620,25 @@
       "status": "success",
       "url": "https://facebook.com/1622929849636577"
     }
+  },
+  {
+    "timestamp": "2026-11-21T17:47:22.882983+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_teleport_snap_small_airplane_face_with_head_bandage_20261121_174718.mp4",
+    "family_id": 47,
+    "family_name": "Quantum Teleportation Snaps",
+    "mode": "teleport_snap",
+    "hero": "small_airplane",
+    "item": "face_with_head_bandage",
+    "title": "Speed Trivia Challenge: Pause On The Secret Symbol! \u26a1",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1678146317174700",
+      "comment_id": "1678146317174700_1717818303199215",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1678146317174700"
+    }
   }
 ]

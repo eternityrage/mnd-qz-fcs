@@ -3700,5 +3700,25 @@
       "status": "success",
       "url": "https://facebook.com/2650639272049068"
     }
+  },
+  {
+    "timestamp": "2026-11-22T13:54:02.442494+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_whack_a_mole_pop_person_with_crown_woman_with_white_cane_20261122_135359.mp4",
+    "family_id": 26,
+    "family_name": "Cyclonic Tornadoes",
+    "mode": "whack_a_mole_pop",
+    "hero": "person_with_crown",
+    "item": "woman_with_white_cane",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "29280896641579212",
+      "comment_id": "29280896641579212_1646652853901913",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/29280896641579212"
+    }
   }
 ]

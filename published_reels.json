@@ -3780,5 +3780,25 @@
       "status": "success",
       "url": "https://facebook.com/1835213491044885"
     }
+  },
+  {
+    "timestamp": "2026-11-23T08:20:51.270292+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_radar_sweep_360_man_in_motorized_wheelchair_facing_right_full_moon_20261123_082047.mp4",
+    "family_id": 27,
+    "family_name": "Radar Beam Sweeps",
+    "mode": "radar_sweep_360",
+    "hero": "man_in_motorized_wheelchair_facing_right",
+    "item": "full_moon",
+    "title": "Observation IQ Test: 99% Miss This Detail! \ud83d\udd0d",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "2022884508398399",
+      "comment_id": "2022884508398399_1163984902979478",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2022884508398399"
+    }
   }
 ]

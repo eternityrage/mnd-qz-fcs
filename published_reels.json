@@ -3760,5 +3760,25 @@
       "status": "success",
       "url": "https://facebook.com/1465225132413179"
     }
+  },
+  {
+    "timestamp": "2026-11-23T01:09:13.474054+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_corner_squeeze_man_mountain_biking_ice_skate_20261123_010908.mp4",
+    "family_id": 35,
+    "family_name": "Mechanical Box Vises",
+    "mode": "corner_squeeze",
+    "hero": "man_mountain_biking",
+    "item": "ice_skate",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1835213491044885",
+      "comment_id": "1835213491044885_3030185177332152",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1835213491044885"
+    }
   }
 ]

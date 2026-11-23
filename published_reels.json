@@ -3800,5 +3800,25 @@
       "status": "success",
       "url": "https://facebook.com/2022884508398399"
     }
+  },
+  {
+    "timestamp": "2026-11-23T17:05:25.011002+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_spiral_galaxy_in_telephone_receiver_hourglass_done_20261123_170520.mp4",
+    "family_id": 22,
+    "family_name": "Logarithmic Spiral Galaxies",
+    "mode": "spiral_galaxy_in",
+    "hero": "telephone_receiver",
+    "item": "hourglass_done",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1020761064419430",
+      "comment_id": "1020761064419430_1757784775323863",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1020761064419430"
+    }
   }
 ]

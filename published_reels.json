@@ -3820,5 +3820,25 @@
       "status": "success",
       "url": "https://facebook.com/1020761064419430"
     }
+  },
+  {
+    "timestamp": "2026-11-23T22:22:43.754269+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_crossfire_4way_bread_lungs_20261123_222240.mp4",
+    "family_id": 30,
+    "family_name": "Cardinal 4-Way Crossfires",
+    "mode": "crossfire_4way",
+    "hero": "bread",
+    "item": "lungs",
+    "title": "Observation IQ Test: 99% Miss This Detail! \ud83d\udd0d",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1817278725997852",
+      "comment_id": "1817278725997852_1649638179375589",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1817278725997852"
+    }
   }
 ]

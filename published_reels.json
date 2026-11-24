@@ -3860,5 +3860,25 @@
       "status": "success",
       "url": "https://facebook.com/2246213079640104"
     }
+  },
+  {
+    "timestamp": "2026-11-24T05:00:10.841387+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_bouncing_floor_drop_crown_wastebasket_20261124_050006.mp4",
+    "family_id": 14,
+    "family_name": "Kinetic Floor Rebounders",
+    "mode": "bouncing_floor_drop",
+    "hero": "crown",
+    "item": "wastebasket",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1690791702484642",
+      "comment_id": "1690791702484642_983706381065069",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1690791702484642"
+    }
   }
 ]

@@ -3840,5 +3840,25 @@
       "status": "success",
       "url": "https://facebook.com/1817278725997852"
     }
+  },
+  {
+    "timestamp": "2026-11-24T02:34:39.187327+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_glitch_matrix_jitter_desktop_computer_radio_20261124_023434.mp4",
+    "family_id": 48,
+    "family_name": "High-Frequency Strobe Freezes",
+    "mode": "glitch_matrix_jitter",
+    "hero": "desktop_computer",
+    "item": "radio",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "2246213079640104",
+      "comment_id": "2246213079640104_1162807422774462",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2246213079640104"
+    }
   }
 ]

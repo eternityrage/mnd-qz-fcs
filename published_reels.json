@@ -3900,5 +3900,25 @@
       "status": "success",
       "url": "https://facebook.com/1451635473205775"
     }
+  },
+  {
+    "timestamp": "2026-11-24T16:50:42.322261+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_laser_crosshairs_hamburger_safety_pin_20261124_165037.mp4",
+    "family_id": 34,
+    "family_name": "Precision Sniper Crosshairs",
+    "mode": "laser_crosshairs",
+    "hero": "hamburger",
+    "item": "safety_pin",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1146164931151967",
+      "comment_id": "1146164931151967_1462309619366469",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1146164931151967"
+    }
   }
 ]

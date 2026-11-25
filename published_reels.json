@@ -4020,5 +4020,25 @@
       "status": "success",
       "url": "https://facebook.com/2084619845536255"
     }
+  },
+  {
+    "timestamp": "2026-11-25T20:15:44.239842+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_shadow_morph_scale_globe_showing_asia_australia_down_right_arrow_20261125_201539.mp4",
+    "family_id": 24,
+    "family_name": "Celestial Solar Eclipses",
+    "mode": "shadow_morph_scale",
+    "hero": "globe_showing_asia_australia",
+    "item": "down_right_arrow",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1930650607917540",
+      "comment_id": "1930650607917540_28670146129331515",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1930650607917540"
+    }
   }
 ]

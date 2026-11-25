@@ -3980,5 +3980,25 @@
       "status": "success",
       "url": "https://facebook.com/1139847105101501"
     }
+  },
+  {
+    "timestamp": "2026-11-25T09:17:05.080345+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_magnetic_attraction_globe_showing_americas_monorail_20261125_091700.mp4",
+    "family_id": 18,
+    "family_name": "Magnetic Attraction Fields",
+    "mode": "magnetic_attraction",
+    "hero": "globe_showing_americas",
+    "item": "monorail",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "1472777087522741",
+      "comment_id": "1472777087522741_968879562717549",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1472777087522741"
+    }
   }
 ]

@@ -3960,5 +3960,25 @@
       "status": "success",
       "url": "https://facebook.com/1020853284406772"
     }
+  },
+  {
+    "timestamp": "2026-11-25T03:46:19.504956+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_sniper_target_lock_t_rex_bubbles_20261125_034615.mp4",
+    "family_id": 34,
+    "family_name": "Precision Sniper Crosshairs",
+    "mode": "sniper_target_lock",
+    "hero": "t_rex",
+    "item": "bubbles",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "1139847105101501",
+      "comment_id": "1139847105101501_1365331762258319",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1139847105101501"
+    }
   }
 ]

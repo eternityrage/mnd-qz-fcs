@@ -4040,5 +4040,25 @@
       "status": "success",
       "url": "https://facebook.com/1930650607917540"
     }
+  },
+  {
+    "timestamp": "2026-11-25T23:47:11.170160+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_swing_diagonal_slash_clinking_glasses_man_rowing_boat_20261125_234706.mp4",
+    "family_id": 4,
+    "family_name": "Diagonal Slash Trajectories",
+    "mode": "swing_diagonal_slash",
+    "hero": "clinking_glasses",
+    "item": "man_rowing_boat",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "id": "2225344431664702",
+      "comment_id": "2225344431664702_1611439810741850",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2225344431664702"
+    }
   }
 ]

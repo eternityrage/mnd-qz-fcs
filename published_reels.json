@@ -4080,5 +4080,25 @@
       "status": "success",
       "url": "https://facebook.com/2308101780039150"
     }
+  },
+  {
+    "timestamp": "2026-11-26T09:02:01.509857+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_diamond_grid_4_pouting_cat_unlocked_20261126_090158.mp4",
+    "family_id": 44,
+    "family_name": "Orthogonal 2x2 Matrices",
+    "mode": "diamond_grid_4",
+    "hero": "pouting_cat",
+    "item": "unlocked",
+    "title": "Lightning Eye Quiz: Freeze On The Winning Clue! \ud83c\udfaf",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1885095142481763",
+      "comment_id": "1885095142481763_1191830393521194",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1885095142481763"
+    }
   }
 ]

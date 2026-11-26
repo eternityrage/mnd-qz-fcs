@@ -4140,5 +4140,25 @@
       "status": "success",
       "url": "https://facebook.com/2354346228720470"
     }
+  },
+  {
+    "timestamp": "2026-11-26T23:59:34.137482+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_matrix_3x3_slots_red_heart_man_superhero_20261126_235930.mp4",
+    "family_id": 45,
+    "family_name": "High-Density 3x3 Matrices",
+    "mode": "matrix_3x3_slots",
+    "hero": "red_heart",
+    "item": "man_superhero",
+    "title": "MindQuiz Spotlight: Can You Catch The Mystery Target? \ud83d\udd75\ufe0f",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1616245403864092",
+      "comment_id": "1616245403864092_1336885388527058",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1616245403864092"
+    }
   }
 ]

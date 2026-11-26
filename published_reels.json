@@ -4060,5 +4060,25 @@
       "status": "success",
       "url": "https://facebook.com/2225344431664702"
     }
+  },
+  {
+    "timestamp": "2026-11-26T03:10:21.286547+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_swing_opposing_grinning_face_with_smiling_eyes_face_with_symbols_on_mouth_20261126_031016.mp4",
+    "family_id": 3,
+    "family_name": "Horizontal Slider Lanes",
+    "mode": "swing_opposing",
+    "hero": "grinning_face_with_smiling_eyes",
+    "item": "face_with_symbols_on_mouth",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "id": "2308101780039150",
+      "comment_id": "2308101780039150_1467508922263152",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2308101780039150"
+    }
   }
 ]

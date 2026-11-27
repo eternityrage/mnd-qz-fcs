@@ -4236,5 +4236,23 @@
       "error": "Start Phase Failed: No response",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-11-27T23:44:01.798897+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_dna_double_helix_police_car_light_horse_face_20261127_234358.mp4",
+    "family_id": 23,
+    "family_name": "Infinity Lemniscates",
+    "mode": "dna_double_helix",
+    "hero": "police_car_light",
+    "item": "horse_face",
+    "title": "Speed Trivia Challenge: Pause On The Secret Symbol! \u26a1",
+    "pinned_comment": "\ud83d\udd0d OBSERVATION TEST: Freeze the frame on the exact match! Drop your proof in the comments! \ud83d\udc47",
+    "facebook": {
+      "status": "failed",
+      "error": "Start Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]

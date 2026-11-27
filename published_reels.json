@@ -4180,5 +4180,25 @@
       "status": "success",
       "url": "https://facebook.com/1701615631325773"
     }
+  },
+  {
+    "timestamp": "2026-11-27T09:10:14.944724+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_conveyor_belt_rush_airplane_departure_ring_buoy_20261127_091010.mp4",
+    "family_id": 29,
+    "family_name": "Interlocking Gear Trains",
+    "mode": "conveyor_belt_rush",
+    "hero": "airplane_departure",
+    "item": "ring_buoy",
+    "title": "Rapid-Fire Visual Quiz: Freeze The Target Item! \ud83c\udfaf",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "id": "1922601925844283",
+      "comment_id": "1922601925844283_1712121360415806",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1922601925844283"
+    }
   }
 ]

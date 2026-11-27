@@ -4218,5 +4218,23 @@
       "error": "Start Phase Failed: No response",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-11-27T19:41:44.522971+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_whack_a_mole_pop_red_circle_yen_banknote_20261127_194141.mp4",
+    "family_id": 26,
+    "family_name": "Cyclonic Tornadoes",
+    "mode": "whack_a_mole_pop",
+    "hero": "red_circle",
+    "item": "yen_banknote",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd75\ufe0f TRIVIA SPEED RUN: Did you spot the target in time? Drop your screenshot below! \ud83d\udc47 #MindQuizFocus",
+    "facebook": {
+      "status": "failed",
+      "error": "Start Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]

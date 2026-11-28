@@ -4254,5 +4254,23 @@
       "error": "Start Phase Failed: No response",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-11-28T02:58:22.202612+00:00Z",
+    "page_id": "1350182274839663",
+    "page_name": "MindQuiz Focus",
+    "video_file": "reel_mindquiz_roulette_wheel_spin_chart_increasing_with_yen_person_blonde_hair_20261128_025815.mp4",
+    "family_id": 25,
+    "family_name": "Casino Roulette Wheels",
+    "mode": "roulette_wheel_spin",
+    "hero": "chart_increasing_with_yen",
+    "item": "person_blonde_hair",
+    "title": "Spot The Target: Fast Reflex Trivia Challenge! \ud83c\udfc6",
+    "pinned_comment": "\ud83c\udfaf SPOTLIGHT QUIZ:\n1. Find the target object and freeze the reel right on it! \u26a1\n2. Post your proof screenshot below \ud83d\udc47\n3. Did you get 100% precision on try #1? \ud83c\udfc6 #MindQuiz",
+    "facebook": {
+      "status": "failed",
+      "error": "Start Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]
